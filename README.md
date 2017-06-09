@@ -1,6 +1,6 @@
 [ZekrShomar](https://t.me/ZekrShomar_RoBoT) Source By [@HiddenDev](https://t.me/HiddenDev)
 
-#Install
+# Install
 git clone https://github.com/Hidden-Dev/ZekrShomar.git
 cd ZekrShomar && nano bot.lua 
 Set Your Token In Line [1], Example:
