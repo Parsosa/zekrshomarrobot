@@ -19,4 +19,4 @@ local ch = "BotDevTm"
 lua bot.lua
 ```
 
-[Dev](https://t.me/HiddenDev) | [Channel](https://t.me/BotDevTm)
+# [Dev](https://t.me/HiddenDev) | # [Channel](https://t.me/BotDevTm)
