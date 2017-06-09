@@ -14,6 +14,9 @@ Set Your Channel Username In Line [10], Example:
 ```lua
 local ch = "BotDevTm"
 ```
-*And For Run* : _lua bot.lua_
+*And For Run* :
+```lua 
+lua bot.lua
+```
 
 [Dev](https://t.me/HiddenDev) | [Channel](https://t.me/BotDevTm)
