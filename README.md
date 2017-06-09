@@ -1,8 +1,9 @@
 [ZekrShomar](https://t.me/ZekrShomar_RoBoT) Source By [@HiddenDev](https://t.me/HiddenDev)
 
 # Install
-git clone https://github.com/Hidden-Dev/ZekrShomar.git
-cd ZekrShomar && nano bot.lua 
+```bash
+git clone https://github.com/Hidden-Dev/ZekrShomar.git && cd ZekrShomar && nano bot.lua 
+```
 Set Your Token In Line [1], Example:
 ```lua
 local token = "1234:XXXX"
