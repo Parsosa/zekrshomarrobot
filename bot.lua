@@ -7,7 +7,7 @@ local offset = 0
 local redis = require('redis')
 local redis = redis.connect('127.0.0.1', 6379)
 local json  = dofile("json.lua")
-local ch = "BotDevTm"
+local ch = ""
 ------------------------------------------------------------------------------
 function GetMe()
 urlk = url .. '/GetMe'
