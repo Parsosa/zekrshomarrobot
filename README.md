@@ -1,6 +1,5 @@
 [ZekrShomar](https://t.me/ZekrShomar_RoBoT) Source By [@HiddenDev](https://t.me/HiddenDev)
 
-# Install
 ```bash
 git clone https://github.com/Hidden-Dev/ZekrShomar.git
 cd ZekrShomar
