@@ -1,4 +1,4 @@
-local token = ""
+local token = "292558405:AAFwjY4VoNRVUz0HmOmXKSpu7wdJajgrF7o"
 local URL = require "socket.url"
 local https = require "ssl.https"
 local serpent = require "serpent"
@@ -7,7 +7,7 @@ local offset = 0
 local redis = require('redis')
 local redis = redis.connect('127.0.0.1', 6379)
 local json  = dofile("json.lua")
-local ch = ""
+local ch = "Zekrshomarrobot"
 ------------------------------------------------------------------------------
 function GetMe()
 urlk = url .. '/GetMe'
